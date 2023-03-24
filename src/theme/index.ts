@@ -18,4 +18,9 @@ const styles = {
   }
 }
 
+const fonts = {
+  body: '',
+  heading: '',
+}
+
 export const theme = extendTheme({colors, styles})
